@@ -8,7 +8,7 @@ html,
 body {
     width: 100%;
     height: 100%;
-    background-color: #14A7FF;
+    background-color: greenyellow;
 }
 
 body {
@@ -48,7 +48,7 @@ main {
 .player-2 {
     color: #FFFFFF;
     margin-top: 5px;
-    background-color: #2D2C2C;
+    background-color: green;
 }
 
 .player__digits {
@@ -77,7 +77,7 @@ main {
 
 .timer__start-bttn {
     color: #FFFFFF;
-    background-color: #0071D5;
+    background-color: green;
 }
 
 .timer__start-bttn:hover {
@@ -87,7 +87,7 @@ main {
 
 .timer__reset-bttn:hover {
     color: #FFFFFF;
-    background-color: #0071D5;
+    background-color: green;
 }
 
 footer p {
